@@ -7,3 +7,7 @@ Run
 ```bash
 poetry install --no-root
 ```
+
+# Branch Convention
+- Experiment branches include EDA, visualizations, modeling, etc. Starts with `exp/`.
+- Main branch is the successful (?) experiments implemented.
