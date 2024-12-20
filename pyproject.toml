@@ -8,6 +8,8 @@ packages = [{include = "kaggle_cryoet"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
+tensorflow = "^2.18.0"
+keras = "^3.7.0"
 
 
 [tool.poetry.group.dev.dependencies]
