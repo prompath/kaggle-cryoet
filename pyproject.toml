@@ -10,6 +10,7 @@ packages = [{include = "kaggle_cryoet"}]
 python = "^3.12"
 tensorflow = "^2.18.0"
 keras = "^3.7.0"
+copick = "^0.8.0"
 
 
 [tool.poetry.group.dev.dependencies]
