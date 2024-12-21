@@ -109,9 +109,9 @@
             ]
         }
     ],
-    "overlay_root": "/kaggle/working/overlay",
+    "overlay_root": "../data/train/overlay",
     "overlay_fs_args": {
         "auto_mkdir": true
     },
-    "static_root": "/kaggle/input/czii-cryo-et-object-identification/train/static"
+    "static_root": "../data/train/static"
 }
